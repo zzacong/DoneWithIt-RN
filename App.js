@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
   let x = 1;
-  console.log("App executed");
+  console.log("App executed, Yo!");
 
   return (
     <View style={styles.container}>
